@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CONV</string>
+    <string name="title">CONVERSOR DE MONEDAS</string>
+    <string name="convertir">Convertir</string>
+    <string name="valor">Ingrese Valor</string>
+    <string name="result">Resultado</string>
+    <string-array name="array_from">
+        <item>COP</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+    <string-array name="array_to">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>COP</item>
+    </string-array>
+</resources>
